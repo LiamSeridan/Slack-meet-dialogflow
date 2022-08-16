@@ -25,3 +25,5 @@ For Accessing Slack Token:- https://api.slack.com/authentication/token-types
 
 Also A database is added where we are storing the details of slack users to check for which user we should reply and for which we shouldn't.
 Also added a feature for Dropdown select in mutipaldrop down as Django as Backend
+
+Once you Run the Project It will give you a Url add that to ngrok to get a URL for Slack to update the Endpoints
